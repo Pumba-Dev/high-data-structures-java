@@ -1,0 +1,9 @@
+Tipo abstrato de Dados II
+-- Abstract Data Type --
+
+É um conjunto de argumentos ( itens ) e um conjunto de métodos ( operações ) sobre esses argumentos.
+	-- As operações são espec[ificadas em uma inferface ( API - Application Program Interface )
+	-- A API diz quais são as operações e o que faz, mas sem dizer como faz.
+
+Um usuário do ADT é chamado CLIENTE: um cliente só deve usar as operações especificadas na API e não 
+deve ter acesso aos detalhes da implementação.
